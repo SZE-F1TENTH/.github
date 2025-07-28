@@ -2,14 +2,14 @@
 
 ![Demo](v1.png)
 
-> This space is dedicated to supporting research, collaborative development, and teamwork for students and contributors involved in the F1TENTH project at **Széchenyi István University**.
+This space is dedicated to supporting research, collaborative development, and teamwork for students and contributors involved in the F1TENTH project at **Széchenyi István University**.
 
 ---
 
 ## 🔒 **Private Repositories**
 
-> Please note that many repositories in this organization are private for a reason — they contain sensitive materials, ongoing work, or competition-related content.<br>
-> <span style="color:red">**Do not share any of this content externally unless explicitly authorized.**</span>
+Please note that many repositories in this organization are private for a reason — they contain sensitive materials, ongoing work, or competition-related content.<br>
+<span style="color:red">**Do not share any of this content externally unless explicitly authorized.**</span>
 
 ---
 
